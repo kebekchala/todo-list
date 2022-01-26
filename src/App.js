@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div className="App">
       <Container>
-        <Header title={'#todo'}/>
+        <Header title={'#Todo-List'}/>
         <Todo/>
       </Container>
     </div>
